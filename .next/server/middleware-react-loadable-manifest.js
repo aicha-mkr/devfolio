@@ -1,0 +1,1 @@
+self.__REACT_LOADABLE_MANIFEST="{\"components\\\\Hero\\\\Hero.js -> lottie-web\":{\"id\":\"components\\\\Hero\\\\Hero.js -> lottie-web\",\"files\":[\"static/chunks/node_modules_lottie-web_build_player_lottie_js.js\"]}}"
