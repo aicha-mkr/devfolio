@@ -1,0 +1,8 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+\# filter=lfs diff=lfs merge=lfs -text
+par filter=lfs diff=lfs merge=lfs -text
+exemple filter=lfs diff=lfs merge=lfs -text
+pour filter=lfs diff=lfs merge=lfs -text
+des filter=lfs diff=lfs merge=lfs -text
+fichiers filter=lfs diff=lfs merge=lfs -text
+Photoshop filter=lfs diff=lfs merge=lfs -text
