@@ -1,1 +1,0 @@
-self.__REACT_LOADABLE_MANIFEST='{"components\\\\Hero\\\\Hero.js -> lottie-web":{"id":1248,"files":["static/chunks/ea88be26.0b8b202a1eea634a.js"]}}';
