@@ -65,22 +65,22 @@ export const SOCIAL_LINKS = [
 ];
 export const SKILLS = {
     languagesAndTools: [
-      "HTML",
-      "CSS",
-      "JavaScript",
-      "PHP",
+      "html",
+      "css",
+      "javaScript",
+      "php",
       "python",
-      "TypeScript",
-      "Nodejs",
-      "Vite",
-      "Firebase",
-      "Figma",
-      "Flutter",
+      "typeScript",
+      "nodejs",
+      "vite",
+      "firebase",
+      "figma",
+      "flutter",
       "wordpress",
     ],
     librariesAndFrameworks: [
-      "React",
-      "Nextjs",
+      "react",
+      "nextjs",
       "laravel",
       "nestJS",
     ],
@@ -96,7 +96,7 @@ export const PROJECTS = [
     description: "A booking website",
     url: "https://nyevenementsdijon.com/",
     gradient: ["#000066", "#6699FF"],
-    tech: ["nestJS","Nextjs","Figma" ],
+    tech: ["nestJS","nextjs","figma" ],
   },
   {
     name: "Asian Restaurant",
@@ -104,7 +104,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/airbnb-blur.webp",
     description: "Asian Restaurant using Flutter",
     gradient: ["#F14658", "#DC2537"],
-    tech: ["wordpress","tailwindcss", "mapbox"],
+    tech: ["flutter"],
   },
 
   {
@@ -122,7 +122,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/medium-blur.webp",
     description: "Limon UI build with Flutter",
     gradient: ["#FFA62E", "#EA4D2C"],
-    tech: ["Flutter","Figma" ],
+    tech: ["flutter","figma" ],
   },
 ];
 
