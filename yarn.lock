@@ -2750,7 +2750,7 @@ set-proto@^1.0.0:
 
 sharp@^0.34.0:
   version "0.34.0"
-  resolved "https://registry.npmjs.org/sharp/-/sharp-0.34.0.tgz"
+  resolved "https://registry.yarnpkg.com/sharp/-/sharp-0.34.0.tgz#821fb87e2c6130558791736604f9dafb5306913c"
   integrity sha512-l7K33wCojhluT82RQXKm3X/y9Y6yBioJ4GaOlGT67yDv8bXZcU3aOlxUM0W1zUUKQjOoIh3VcfQEKHVW9AyijQ==
   dependencies:
     color "^4.2.3"
