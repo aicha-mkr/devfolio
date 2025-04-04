@@ -67,10 +67,10 @@ export const SKILLS = {
     languagesAndTools: [
       "html",
       "css",
-      "javaScript",
+      "javascript",
       "php",
       "python",
-      "typeScript",
+      "typescript",
       "nodejs",
       "vite",
       "firebase",
@@ -84,8 +84,8 @@ export const SKILLS = {
       "laravel",
       "nestJS",
     ],
-    databases: ["MySQL", "MongoDB"],
-    other: ["Git"],
+    databases: ["mysql", "mongodb"],
+    other: ["git"],
   };
 
 export const PROJECTS = [
