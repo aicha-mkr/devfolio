@@ -6,3 +6,5 @@ pour filter=lfs diff=lfs merge=lfs -text
 des filter=lfs diff=lfs merge=lfs -text
 fichiers filter=lfs diff=lfs merge=lfs -text
 Photoshop filter=lfs diff=lfs merge=lfs -text
+*.filetype filter=lfs diff=lfs merge=lfs -text
+node_modules/@next/swc-win32-x64-msvc/next-swc.win32-x64-msvc.node filter=lfs diff=lfs merge=lfs -text
