@@ -4,7 +4,7 @@ export const METADATA = {
   description:
     "Aicha Mokhtar is a passionate freelance Full-Stack Developer dedicated to building dynamic and user-friendly applications.",
   keywords: [
-    "Shubh Porwal",
+    "Aicha Mokhtar",
     "Frontend Engineer",
     "React Native Developer",
     "Software Engineer",
@@ -117,12 +117,13 @@ export const PROJECTS = [
     tech: ["wordpress"],
   },
   {
-    name: "Limon",
-    image: "/projects/medium.webp",
-    blurImage: "/projects/blur/medium-blur.webp",
-    description: "Limon UI build with Flutter",
-    gradient: ["#FFA62E", "#EA4D2C"],
-    tech: ["flutter","figma" ],
+    name: "XFLOW",
+    image: "/projects/XFLOW.webp",
+    blurImage: "/projects/blur/XFLOW-blur.webp",
+    description: "XFlow is a complete desktop application for inventory, client, and invoicing management, developed by Aicha Mokhtar. It is a modern and professional business management system. ",
+    gradient: ["#3B82F6", "#60A5FA"],
+    tech: ["nodejs","javascript","react"],
+    url: "https://www.facebook.com/profile.php?id=61576971566857"
   },
 ];
 
