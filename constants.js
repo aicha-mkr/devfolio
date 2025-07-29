@@ -122,7 +122,7 @@ export const PROJECTS = [
     blurImage: "/projects/blur/XFLOW-blur.webp",
     description: "XFlow is a complete desktop application for inventory, client, and invoicing management, developed by Aicha Mokhtar. It is a modern and professional business management system. ",
     gradient: ["#3B82F6", "#60A5FA"],
-    tech: ["nodejs","javascript","react"],
+    tech: ["react"],
     url: "https://www.facebook.com/profile.php?id=61576971566857"
   },
 ];
